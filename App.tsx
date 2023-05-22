@@ -53,8 +53,8 @@ const Process = ({
           {resultado == 0
             ? ""
             : resultado > 0.7
-            ? 'MAIS VANTAJOSO ABATECER COM GASOLINA'
-            : 'MAIS VANTAJOSO ABATECER COM ALCOOL'}
+            ? 'MAIS VANTAJOSO ABASTECER COM GASOLINA'
+            : 'MAIS VANTAJOSO ABASTECER COM ALCOOL'}
         </Text>
       </View>
     </View>
